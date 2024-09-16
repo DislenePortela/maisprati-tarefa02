@@ -1,1 +1,9 @@
-# maisprati-tarefa02
+# maisprati-exercícios tarefa 02
+
+## Execute os Exercícios
+
+MaispraTi
+
+Lista de Tarefas 2
+
+Este é o meu desenvolvimento dos 15 exercícios da segunda lista de tarefas do curso gratuito +praTi. Peço que para rodar o código, tire os comentários.
